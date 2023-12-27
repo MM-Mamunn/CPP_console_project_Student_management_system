@@ -1,4 +1,4 @@
-This is 2nd semester C++ final console project(OOP).
+This is my 2nd semester C++ final console project(OOP).
 It has seperate panel for advisors and students, and can be accessed by passwords and id.
 Students can see results, apply for course registration etc.
 Advisors can accept or deny course registration application of students who are under him, Can publish result etc.
